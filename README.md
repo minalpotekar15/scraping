@@ -9,3 +9,5 @@ Also need to have before packages installed with below commands.
 To run the file hit the below command:
 
 * python scraping.py
+
+On line 27 do not forget to provide input excel file path.
